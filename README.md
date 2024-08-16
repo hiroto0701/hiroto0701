@@ -2,6 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiroto0701&label=Profile%20views&color=0e75b6&style=flat" alt="hiroto0701" /> </p>
 🌱 I’m currently learning TypeScript,React,Next.js,Vue
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,postgres,react,vue,tailwind,laravel)](https://skillicons.dev)
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiroto0701&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroto0701&theme=github_dark)
