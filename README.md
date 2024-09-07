@@ -3,7 +3,7 @@
 🌱 I’m currently learning TypeScript,React,Next.js,Vue
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,react,vue,tailwind,laravel,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,react,vue,tailwind,laravel,postgres,mysql)](https://skillicons.dev)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiroto0701&theme=github_dark)
