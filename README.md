@@ -16,9 +16,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hiroto0701&show_icons=true&locale=en&theme=github_dark" alt="hiroto0701" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiroto0701&theme=github_dark" alt="hiroto0701" /></p>
-
-
 <!--
 **hiroto0701/hiroto0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
