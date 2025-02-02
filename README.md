@@ -1,7 +1,7 @@
 <h3 align="center">🧑🏻‍💻 I'm Hiroto Inagaki 🦖</h3>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2480117e-f744-44b2-a12f-b85acb5799cd" alt="Helicopter Mechanic Image">
+  <img src="https://github.com/user-attachments/assets/d256aa51-b07b-49a1-a38a-82bec0594e27" alt="jgsdfer">  
 </div>
 
 <div align="center">
