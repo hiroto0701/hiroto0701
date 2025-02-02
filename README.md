@@ -1,7 +1,19 @@
-<h1 align="center">Hi 👋, I'm Hiroto Inagaki</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiroto0701&label=Profile%20views&color=0e75b6&style=flat" alt="hiroto0701" /> </p>
-🌱 I’m currently learning TypeScript,React,Next.js,Vue
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hiroto0701&label=Profile%20views&color=0e75b6&style=flat" alt="hiroto0701" /> </p>
 
+<h3 align="center">🧑🏻‍💻 I'm Hiroto Inagaki 🦖</h3>
+
+<br>
+
+<div align="center">
+  <h1>
+    <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
+    <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
+    <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+    <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
+    <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+  </h1>
+</div>
+  
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,react,vue,tailwind,laravel,postgres,mysql)](https://skillicons.dev)
 
@@ -16,17 +28,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hiroto0701&show_icons=true&locale=en&theme=github_dark" alt="hiroto0701" /></p>
 
-<!--
-**hiroto0701/hiroto0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
