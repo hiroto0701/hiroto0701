@@ -1,4 +1,4 @@
-<h3 align="center">🧑🏻‍💻 I'm Hiroto Inagaki 🦖</h3>
+<h3 align="center">🧑🏻‍💻 I'm Hiroto Inagaki 🍛</h3>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d256aa51-b07b-49a1-a38a-82bec0594e27" alt="jgsdfer">  
