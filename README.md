@@ -8,7 +8,7 @@
 
 <p align="center">
 <!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/6a22f2b8-f759-4ba2-9234-1a2d1b845b5b" title="Associate Cloud Engineer"><img src="https://images.credly.com/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png" width="100" alt="Associate Cloud Engineer" /></a> <a href="https://www.credly.com/badges/157126e0-6528-47c9-8e9b-95aa1cb18bb9" title="Professional Cloud Developer"><img src="https://images.credly.com/images/10227907-54b6-466f-a52c-1a26948f0aaf/image.png" width="100" alt="Professional Cloud Developer" /></a> <a href="https://www.credly.com/badges/44ee3b9f-44cb-4f46-b45a-25fde8878de7" title="Professional Cloud DevOps Engineer"><img src="https://images.credly.com/images/9baf2afb-e107-4acc-b886-5d8112581e73/image.png" width="100" alt="Professional Cloud DevOps Engineer" /></a> <a href="https://www.credly.com/badges/99390ac5-2bfb-4f30-ba8d-ab5f76550f4c" title="Professional Cloud Architect"><img src="https://images.credly.com/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" width="100" alt="Professional Cloud Architect" /></a><!--END_SECTION:badges-->
 </p>
 
 <!--
