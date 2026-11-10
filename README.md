@@ -4,6 +4,13 @@
   <img src="https://github.com/user-attachments/assets/d256aa51-b07b-49a1-a38a-82bec0594e27" alt="jgsdfer">  
 </div>
 
+<h3 align="center">🏅 Certifications</h3>
+
+<p align="center">
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+</p>
+
 <!--
 
 <div align="center">
